@@ -1,0 +1,7 @@
+* linguist-vendored
+*.yy linguist-vendored=true
+*.ini linguist-vendored=false
+*.json linguist-vendored=false
+*.fsh linguist-vendored=false
+*.vsh linguist-vendored=false
+*.gml linguist-vendored=false
