@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 7,
+  "bbox_right": 133,
   "bbox_top": 0,
-  "bbox_bottom": 7,
+  "bbox_bottom": 116,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 8,
-  "height": 8,
+  "width": 134,
+  "height": 117,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e81bfaa1-f917-40ab-9ffb-6eae3216dc34","path":"sprites/sRibbon/sRibbon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e81bfaa1-f917-40ab-9ffb-6eae3216dc34","path":"sprites/sRibbon/sRibbon.yy",},"LayerId":{"name":"c6372349-04c0-4b4b-a5c0-dbe6ea88f995","path":"sprites/sRibbon/sRibbon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sRibbon","path":"sprites/sRibbon/sRibbon.yy",},"resourceVersion":"1.0","name":"e81bfaa1-f917-40ab-9ffb-6eae3216dc34","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d1920b78-c265-46f5-bc2b-dba4042985cf","path":"sprites/sPentagon/sPentagon.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d1920b78-c265-46f5-bc2b-dba4042985cf","path":"sprites/sPentagon/sPentagon.yy",},"LayerId":{"name":"76da7abd-b2b8-443c-8d0e-6da10874a949","path":"sprites/sPentagon/sPentagon.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sPentagon","path":"sprites/sPentagon/sPentagon.yy",},"resourceVersion":"1.0","name":"d1920b78-c265-46f5-bc2b-dba4042985cf","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sRibbon","path":"sprites/sRibbon/sRibbon.yy",},
+    "spriteId": {"name":"sPentagon","path":"sprites/sPentagon/sPentagon.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4d0d9efb-4817-4b13-9cf0-766e1d348f02","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e81bfaa1-f917-40ab-9ffb-6eae3216dc34","path":"sprites/sRibbon/sRibbon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c3e8b7bc-4d3e-46c3-937a-ecdb36b4a18d","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d1920b78-c265-46f5-bc2b-dba4042985cf","path":"sprites/sPentagon/sPentagon.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sRibbon","path":"sprites/sRibbon/sRibbon.yy",},
+    "parent": {"name":"sPentagon","path":"sprites/sPentagon/sPentagon.yy",},
     "resourceVersion": "1.3",
-    "name": "sRibbon",
+    "name": "sPentagon",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c6372349-04c0-4b4b-a5c0-dbe6ea88f995","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"76da7abd-b2b8-443c-8d0e-6da10874a949","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sRibbon",
+  "name": "sPentagon",
   "tags": [],
   "resourceType": "GMSprite",
 }

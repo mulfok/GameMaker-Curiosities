@@ -1,11 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"oPentagon","path":"objects/oPentagon/oPentagon.yy",},"order":3,},
+    {"id":{"name":"sPentagon","path":"sprites/sPentagon/sPentagon.yy",},"order":1,},
     {"id":{"name":"pathRibbon","path":"paths/pathRibbon/pathRibbon.yy",},"order":0,},
     {"id":{"name":"oInit","path":"objects/oInit/oInit.yy",},"order":0,},
     {"id":{"name":"oFollowme","path":"objects/oFollowme/oFollowme.yy",},"order":1,},
+    {"id":{"name":"rmPentagon","path":"rooms/rmPentagon/rmPentagon.yy",},"order":3,},
     {"id":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},"order":2,},
     {"id":{"name":"oAnchor","path":"objects/oAnchor/oAnchor.yy",},"order":2,},
     {"id":{"name":"sRibbon","path":"sprites/sRibbon/sRibbon.yy",},"order":0,},
+    {"id":{"name":"fntDefault","path":"fonts/fntDefault/fntDefault.yy",},"order":0,},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},"order":0,},
   ],
   "Options": [
@@ -23,6 +27,7 @@
   },
   "RoomOrder": [
     {"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},
+    {"name":"rmPentagon","path":"rooms/rmPentagon/rmPentagon.yy",},
     {"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},
   ],
   "Folders": [

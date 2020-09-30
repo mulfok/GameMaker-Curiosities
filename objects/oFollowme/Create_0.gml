@@ -3,7 +3,7 @@
 
 sprite		= sRibbon;
 width		= sprite_get_height(sprite);
-stepsize	= .04;
+stepsize	= .01;
 
 path		= pathRibbon;
 text		= sprite_get_texture(sprite,0);
